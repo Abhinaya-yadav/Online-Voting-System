@@ -1,0 +1,11 @@
+.btn{
+    margin-right: 10px;
+}
+.text{
+    color:  black;
+}
+.main{
+    background-image: url('online voting-1.webp');
+    background-size: cover;
+    height: 100vb;
+}
